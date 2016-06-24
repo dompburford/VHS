@@ -1,0 +1,122 @@
+html, body { margin: 0; padding: 0; }
+
+.link {
+    position: absolute;
+    margin: auto;
+    top: 560px;
+    left: 0;
+    right: 0;
+    text-align: center; 
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    z-index: 1000;
+    cursor: auto;
+}
+
+#tape {
+    background-image: url('./img/trueromance.png');
+    background-size: 150px;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 220px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 580px;
+    top: 325.5px;
+    z-index: 3000;
+}
+
+.left {
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 250px;
+    left: 595px;
+    right: 0;
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    z-index: 1000;
+}
+
+.right {
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 250px;
+    left: 0;
+    right: 595px;
+    width: 200px;
+    height: 300px;
+    background-color: white;
+    z-index: 1000;
+}
+
+.up {
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 155px;
+    left: 0;
+    right: 0;
+    width: 500px;
+    height: 100px;
+    background-color: white;
+    z-index: 1000;
+}
+
+.down {
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 545px;
+    left: 0;
+    right: 0;
+    width: 500px;
+    height: 50px;
+    background-color: white;
+    z-index: 1000;
+}
+
+.still {
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 250px;
+    left: 0;
+    right: 0;
+    width: 400px;
+}
+
+.vhsone {
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 250px;
+    left: 0;
+    right: 0;
+    width: 399px;
+}
+
+.a {
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 260px;
+    left: 0;
+    right: 0;
+    width: 500px;
+    z-index: 100;
+}
+
+
+.vhstwo {
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 250px;
+    left: 0;
+    right: 0;
+    width: 399px;
+}
